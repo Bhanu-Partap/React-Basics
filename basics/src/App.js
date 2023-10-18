@@ -16,7 +16,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          <button> "Click me</button>
         </a>
       </header>
     </div>
